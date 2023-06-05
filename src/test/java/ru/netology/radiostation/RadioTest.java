@@ -93,6 +93,5 @@ public class RadioTest {
         int actual = cond.prevRadiostation();
         Assertions.assertEquals(expected, actual);
     }
-
 }
 
